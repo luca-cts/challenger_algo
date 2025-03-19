@@ -1,4 +1,4 @@
-# tag: string, two_pointer, dynamic_programming
+# tag: string, two_pointers, dynamic_programming
 class Solution:
     """
     https://leetcode.com/problems/is-subsequence/description/

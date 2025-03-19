@@ -1,7 +1,7 @@
 from typing import List
 
 
-# tag: array, two_pointer, sorting
+# tag: array, two_pointers, sorting
 class Solution:
     """
     https://leetcode.com/problems/3sum/description/?envType=problem-list-v2&envId=two-pointers
