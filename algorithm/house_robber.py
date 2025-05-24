@@ -1,7 +1,7 @@
 from typing import List
 
 
-# dynamic_programming
+# tag: dynamic_programming
 class Solution:
     """
     https://leetcode.com/problems/house-robber
